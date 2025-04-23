@@ -1,0 +1,5 @@
+controller\ProductoServlet.class
+config\DatabaseConfig.class
+dao\ProductoDAO.class
+dao\ProductoDAOImpl.class
+model\Producto.class
